@@ -4,6 +4,7 @@
 Before running the program, check the openCV version by:
 
 `python`
+
 `>>> import cv2`
 
 If openCV wasn't installed, just type `pip install opencv-contrib-python` in CMD or terminal.
